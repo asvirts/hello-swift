@@ -1,1 +1,2 @@
-print("Hello, World!") 
+let greeting = "Hello world!"
+print(greeting)
