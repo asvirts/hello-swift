@@ -1,2 +1,2 @@
-- name: Upload app to TestFlight
+name: Upload app to TestFlight
   uses: Apple-Actions/upload-testflight-build@v1
